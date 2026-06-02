@@ -22,6 +22,7 @@ The page is structured following design principles focused on conversion and use
 In addition, the navigation bar remains visible while scrolling to keep the product's main actions accessible at all times.
 
 Technical Aspects:
+
 -Responsive design adapted to different devices.
 
 -Entrance animations using Intersection Observer.
@@ -62,6 +63,7 @@ La página está estructurada siguiendo principios de diseño orientados a la co
 Además, la barra de navegación permanece visible durante el desplazamiento para mantener accesibles las acciones principales del producto en todo momento.
 
 Aspectos técnicos:
+
 -Diseño responsive adaptado a distintos dispositivos.
 
 -Animaciones de entrada mediante Intersection Observer.
