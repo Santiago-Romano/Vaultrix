@@ -40,42 +40,39 @@ Below is the link to view the page:
 https://vaultrixs.netlify.app/
 
 Español:
-¿Para qué sirve?
-Vaultrix es una landing page corporativa diseñada para presentar y comercializar una plataforma de gestión empresarial. Su objetivo principal es convertir visitantes en potenciales clientes mediante acciones como registrarse para una prueba gratuita o solicitar una demostración comercial.
+Descripción General:
+Vaultrix es una landing page corporativa de alto rendimiento, diseñada para presentar y comercializar una plataforma de gestión empresarial SaaS. Su objetivo principal es la conversión de visitantes en leads cualificados mediante una experiencia de usuario optimizada y un diseño visualmente atractivo. Este proyecto demuestra la habilidad para construir interfaces de usuario persuasivas, responsivas y con micro-interacciones que mejoran la percepción de marca y la usabilidad.
 
-¿Cómo funciona?
-La página está estructurada siguiendo principios de diseño orientados a la conversión y la experiencia de usuario.
+Características Destacadas:
 
--El hero principal presenta la propuesta de valor del producto y dirige la atención hacia la acción principal.
+- Diseño Orientado a la Conversión: Estructura de página diseñada para guiar al usuario a través de la propuesta de valor, testimonios, estadísticas y planes de precios, culminando en llamadas a la acción claras.
 
--La sección de empresas asociadas genera confianza y credibilidad mediante prueba social.
+- Experiencia de Usuario Envolvente: Implementación de animaciones de entrada (IntersectionObserver) que revelan el contenido de forma elegante a medida que el usuario se desplaza, creando una experiencia dinámica y moderna.
 
--El bloque de funcionalidades explica los beneficios y capacidades del sistema.
+- Navegación Intuitiva: Barra de navegación fija con desplazamiento suave (smooth scroll) entre secciones y un menú hamburger responsivo para dispositivos móviles, asegurando accesibilidad constante a las funcionalidades clave.
 
--Las estadísticas de rendimiento respaldan la propuesta con indicadores cuantitativos.
+- Prueba Social y Credibilidad: Secciones dedicadas a logos de empresas asociadas y testimonios de clientes, construyendo confianza y validando la propuesta de valor.
 
--Los testimonios aportan validación y reducen la incertidumbre del usuario.
+- Feedback Interactivo: Botones de llamada a la acción con toast notifications que proporcionan retroalimentación instantánea al usuario sobre sus interacciones.
 
--La sección de planes y precios facilita la comparación de opciones y guía la decisión de compra.
+- Diseño Responsivo: Adaptación completa a diversos tamaños de pantalla (escritorio, tablet, móvil) mediante media queries, garantizando una presentación impecable en cualquier dispositivo.
 
--El llamado a la acción final (CTA) busca maximizar la conversión una vez que el visitante ha recorrido toda la información.
+Stack Tecnológico:
+Este proyecto fue desarrollado utilizando un stack de frontend puro, enfatizando el dominio de las tecnologías web esenciales y las mejores prácticas de desarrollo moderno:
 
-Además, la barra de navegación permanece visible durante el desplazamiento para mantener accesibles las acciones principales del producto en todo momento.
+- HTML5: Estructuración semántica y accesible del contenido.
 
-Aspectos técnicos:
+- CSS3: Estilización avanzada con variables CSS, transiciones suaves, sombras dinámicas y un sistema de diseño responsivo robusto. Se priorizó la coherencia visual y la estética de marca.
 
--Diseño responsive adaptado a distintos dispositivos.
+- JavaScript (ES6+): Implementación de la lógica interactiva, incluyendo la gestión de eventos de scroll, animaciones basadas en IntersectionObserver, navegación de menú móvil y feedback de usuario mediante toast notifications.
 
--Animaciones de entrada mediante Intersection Observer.
+Arquitectura de Datos y Simulación de API:
+Los datos presentados en Vaultrix (testimonios, estadísticas) son simulados (mock data). Esta aproximación permite:
 
--Navegación con desplazamiento suave entre secciones.
+1- Validar el diseño y la funcionalidad del frontend de manera independiente, sin requerir un backend activo.
 
--Componentes interactivos desarrollados con JavaScript.
+2- Demostrar la capacidad de la interfaz para consumir y presentar datos estructurados, preparando el terreno para una futura integración con una API RESTful real. La estructura del código está diseñada para permitir una fácil sustitución de los datos simulados por llamadas a servicios de backend para cargar contenido dinámico (ej. testimonios, planes de precios).
 
--Interfaz inspirada en productos SaaS modernos.
-
-Aviso:
-Este proyecto fue desarrollado con fines educativos y de portfolio. Todas las empresas, testimonios, métricas, estadísticas y datos mostrados son ficticios y no representan organizaciones reales.
 
 A continuacion dejo el link para que puedan ver la pagina:
 https://vaultrixs.netlify.app/
