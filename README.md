@@ -40,6 +40,7 @@ Below is the link to view the page:
 https://vaultrixs.netlify.app/
 
 Español:
+
 Descripción General:
 Vaultrix es una landing page corporativa de alto rendimiento, diseñada para presentar y comercializar una plataforma de gestión empresarial SaaS. Su objetivo principal es la conversión de visitantes en leads cualificados mediante una experiencia de usuario optimizada y un diseño visualmente atractivo. Este proyecto demuestra la habilidad para construir interfaces de usuario persuasivas, responsivas y con micro-interacciones que mejoran la percepción de marca y la usabilidad.
 
@@ -58,6 +59,7 @@ Características Destacadas:
 - Diseño Responsivo: Adaptación completa a diversos tamaños de pantalla (escritorio, tablet, móvil) mediante media queries, garantizando una presentación impecable en cualquier dispositivo.
 
 Stack Tecnológico:
+
 Este proyecto fue desarrollado utilizando un stack de frontend puro, enfatizando el dominio de las tecnologías web esenciales y las mejores prácticas de desarrollo moderno:
 
 - HTML5: Estructuración semántica y accesible del contenido.
@@ -67,6 +69,7 @@ Este proyecto fue desarrollado utilizando un stack de frontend puro, enfatizando
 - JavaScript (ES6+): Implementación de la lógica interactiva, incluyendo la gestión de eventos de scroll, animaciones basadas en IntersectionObserver, navegación de menú móvil y feedback de usuario mediante toast notifications.
 
 Arquitectura de Datos y Simulación de API:
+
 Los datos presentados en Vaultrix (testimonios, estadísticas) son simulados (mock data). Esta aproximación permite:
 
 1- Validar el diseño y la funcionalidad del frontend de manera independiente, sin requerir un backend activo.
